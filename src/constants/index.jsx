@@ -84,6 +84,10 @@ import {
       icon: typescript,
     },
     {
+      name: "angular",
+      icon: angular,
+    },
+    {
       name: "React JS",
       icon: reactjs,
     },
@@ -118,10 +122,6 @@ import {
     {
       name: "docker",
       icon: docker,
-    },
-    {
-      name: "angular",
-      icon: angular,
     },
   ];
   
@@ -252,67 +252,117 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "CGI Wealth360™ Portfolio Management ",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A comprehensive solution for wealth management professionals who wish to anticipate change, offer creative options and increase efficiencies as they manage their clients’ investments. From front office sales tools to middle office decision making and back office administration, CGI Wealth360 Portfolio Management delivers an industry-leading, end-to-end wealth management solution.",
       tags: [
         {
-          name: "react",
+          name: "angular",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "React",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Angular Material",
           color: "pink-text-gradient",
+        },
+        {
+          name: "JAVA",
+          color: "orange-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/honggzb",
     },
     {
-      name: "Job IT",
+      name: "Open text Media Management System",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "An enterprise Digital Asset Management solution, a workflow-driven, multichannel capabilities for producing, publishing, and distributing digital media and content through a secure, scalable platform.It’s an integral part of an ecosystem with interconnected and interdependent contributors(such as agencies, photo, video, audio, graphics, layout) provisioning digital media content for the multi-channel digital supply chain, digital operations, marketing and brand management.",
       tags: [
         {
-          name: "react",
+          name: "HTML5",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Angular",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "x-tag",
           color: "pink-text-gradient",
+        },
+        {
+          name: "JAVA",
+          color: "orange-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/honggzb",
     },
     {
-      name: "Trip Guide",
+      name: "RBC Mobile",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Everyday banking on smartphone or tablet. The RBC Mobile app make your life easier by letting you manage your banking no matter where you are or what you’re doing, including Direct Investing, Wallet, Dominion Securities. The portal is to make the provisioning of environments easier for a wider range of users. Users can customize the environments in a number of different ways.",
       tags: [
         {
-          name: "nextjs",
+          name: "jQuery Mobile",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Angular",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Typescript",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/honggzb",
+    },
+    {
+      name: "Order Management Platform",
+      description:
+        "End-to-end order management system and tracking capabilities, extending from the moment an order is received through to the completion and subsequent archiving of the order.For each product,the orchestration workflows and fulfillment system interactions can be viewed graphically. OMP provides external systems with real-time updates and aggregate order status to track the order lifecycle.",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Play Framework",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JAVA",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/honggzb",
+    },
+    {
+      name: "DAC, Remax web site",
+      description:
+        "Responsive and non-responsive websites that are fully compatible with different browsers and devices(desktop, tablet, mobile phone) .",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Google Analytics",
+          color: "green-text-gradient",
+        },
+        {
+          name: "bootstrap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/honggzb",
     },
   ];
   

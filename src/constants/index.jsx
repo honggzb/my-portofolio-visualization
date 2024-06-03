@@ -57,6 +57,10 @@ import {
       icon: mobile,
     },
     {
+      title: "Vue Developer",
+      icon: web,
+    },
+    {
       title: "React Developer",
       icon: backend,
     },

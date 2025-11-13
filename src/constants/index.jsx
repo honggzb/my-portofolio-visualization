@@ -64,10 +64,6 @@ import {
       title: "React Developer",
       icon: backend,
     },
-    {
-      title: "Quick learner",
-      icon: creator,
-    },
   ];
   
   const technologies = [
@@ -137,14 +133,14 @@ import {
       iconBg: "#383E56",
       date: "Nov 2018 - Nov 2024",
       points: [
-        "Analyzed, designed and coded high-level reusable, visualized, responsive UI according to requirements from stakeholder, Product Manager/Business Analysts and meeting to best performance and User experience",
-        "Achieved the reusable, visualized, responsive web components, implemented user interactions.",
-        "Consumed, integrated data from Restful/GraphQL API with UI model, component and Service",
+        "Analyzed, planed, designed and coded high-level reusable, testable, data-visualized, visualized, responsive UI according to requirements from stakeholder, Product Manager/Business Analysts and meeting to best performance and User experience",
+        "Achieved the reusable, visualized, responsive web components, met to best performance, quality and user experience and agile methodologies, followed to SDLC.",
+        "Consumed data from and integrated CRUD Restful/GraphQL API with UI model, component and Service",
         "Track and measure website performance, user behavior, and conversion rates for various clients by using Google Analytics",
         "Participating in code reviews to ensure that it meets quality, performance, and code standards; providing constructive feedback to other developers",
         "Identified bottlenecks and implemented effective problem-solving strategies that improved performance",
         "Organized front end automation procedure, requirements definition till successful, supporting deployment issues",
-        "Designed and developed RESTful APIs/Swagger using SQL, Node.js and Express to handle/show data request/response and authentication",
+        "Wrote, updated and maintained documentations, specifications, guidelines, configurations files for reference/history",
         "Took on the additional responsibility of leading a couple of Junior UI Developers to complete a set of critical features",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products; working effectively in a Hybrid Agile/Scrum environment",
         "Took on the additional responsibility of leading a couple of Junior UI Developers to complete a set of critical features",

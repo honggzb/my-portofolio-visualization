@@ -32,6 +32,7 @@ import RBC from "./company/RBC.svg";
 import Klick from "./company/Klick.svg";
 import dac from "./company/dac.svg";
 import Sigma from "./company/Sigma.png";
+import OPS from "./company/OPS.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";

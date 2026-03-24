@@ -130,7 +130,7 @@ import {
     {
       title: "Senior Software Developer",
       company_name: "Ministry of Public and Business Service Delivery and Procurement(OPS)",
-      icon: dac,
+      icon: OPS,
       iconBg: "#E6DEDD",
       date: "Dec 2025 - ",
       points: [

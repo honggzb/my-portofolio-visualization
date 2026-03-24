@@ -222,6 +222,20 @@ import {
         "Participated in Daily Scrum, sprint meeting and retrospective meeting to provide technical direction, training, Summary, interaction and improvement.",
       ],
     },
+    {
+      title: "Senior Software Developer",
+      company_name: "Ministry of Public and Business Service Delivery and Procurement(OPS)",
+      icon: dac,
+      iconBg: "#E6DEDD",
+      date: "Dec 2025 - ",
+      points: [
+        "Developed & delivered.",
+        "Designed",
+        "Web Content Accessibility Guidelines (WCAG) for web application development.",
+        "Cooperated with BA and QA to capture and organize issues, assign work, and following team activity.",
+        "Participated in Daily Scrum, sprint meeting and retrospective meeting to provide technical direction, training, Summary, interaction and improvement.",
+      ],
+    },
   ];
   
   const testimonials = [

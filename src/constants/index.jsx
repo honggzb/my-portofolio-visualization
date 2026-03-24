@@ -53,16 +53,16 @@ import {
       icon: web,
     },
     {
+      title: "React Developer",
+      icon: backend,
+    },
+    {
       title: "Angular Developer",
       icon: mobile,
     },
     {
       title: "Vue Developer",
       icon: web,
-    },
-    {
-      title: "React Developer",
-      icon: backend,
     },
   ];
   

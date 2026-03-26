@@ -268,6 +268,23 @@ import {
   
   const projects = [
     {
+        name: "Driver and Vehicle Internal Solution",
+        description:
+        "A comprehensive solutions",
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Next.js",
+          color: "green-text-gradient",
+        },
+       {
+          name: "React hook form",
+          color: "green-text-gradient",
+        },
+    },
+    {
       name: "CGI Wealth360™ Portfolio Management ",
       description:
         "A comprehensive solution for wealth management professionals who wish to anticipate change, offer creative options and increase efficiencies as they manage their clients’ investments. From front office sales tools to middle office decision making and back office administration, CGI Wealth360 Portfolio Management delivers an industry-leading, end-to-end wealth management solution.",

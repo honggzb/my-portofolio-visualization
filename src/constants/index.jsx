@@ -269,8 +269,8 @@ import {
   const projects = [
     {
         name: "Driver and Vehicle Internal Solution",
-        description:
-        "A comprehensive solutions",
+        description: "A comprehensive solutions",
+        tags: [
         {
           name: "React",
           color: "blue-text-gradient",
@@ -279,10 +279,13 @@ import {
           name: "Next.js",
           color: "green-text-gradient",
         },
-       {
+        {
           name: "React hook form",
           color: "green-text-gradient",
         },
+        ],
+        image: carrent,
+        source_code_link: "https://github.com/honggzb",
     },
     {
       name: "CGI Wealth360™ Portfolio Management ",

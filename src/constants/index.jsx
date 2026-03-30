@@ -134,11 +134,11 @@ import {
       iconBg: "#E6DEDD",
       date: "Dec 2025 - ",
       points: [
-        "Developed & delivered.",
-        "Designed",
+        "Developed & delivered  high-quality front-end code, deliver quality software products (including Minimal Viable Products and Cloud-Native Web Application products, AODA compliance) as required.",
+        "Maintain design consistency and adhere to brand guidelines across all projects.",
         "Web Content Accessibility Guidelines (WCAG) for web application development.",
-        "Cooperated with BA and QA to capture and organize issues, assign work, and following team activity.",
-        "Participated in Daily Scrum, sprint meeting and retrospective meeting to provide technical direction, training, Summary, interaction and improvement.",
+        "work with Business Analysts / Product Manager / Cloud Architect / backend developers, base on storyboard, user stories, UI/UX artefacts, solution architecture, security requirements, data models.",
+        "Provide critical application support (incident investigation, troubleshooting, interim / long-term fixes, maintenance / incremental changes, etc.) for complex production enterprise Applications.",
       ],
     },
     {
@@ -269,7 +269,7 @@ import {
   const projects = [
     {
         name: "Driver and Vehicle Internal Solution",
-        description: "A comprehensive solutions",
+        description: "A comprehensive solutions for Driver and Vehicle services , delivering a seamless client experience across the OPS by taking a client-first approach to providing high-quality services.",
         tags: [
         {
           name: "React",
@@ -281,7 +281,7 @@ import {
         },
         {
           name: "React hook form",
-          color: "green-text-gradient",
+          color: "orange-text-gradient",
         },
         ],
         image: carrent,
